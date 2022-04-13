@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="685px" preserveAspectRatio="none" style="width:497px;height:685px;background:#00000000;" version="1.1" viewBox="0 0 497 685" width="497px" zoomAndPan="magnify"><defs/><g><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="38" x2="38" y1="81.7999" y2="604.2002"/><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="144" x2="144" y1="81.7999" y2="604.2002"/><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="260" x2="260" y1="81.7999" y2="604.2002"/><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="332" x2="332" y1="81.7999" y2="604.2002"/><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="440" x2="440" y1="81.7999" y2="604.2002"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="60" x="5" y="78.9999">User TTY</text><ellipse cx="38" cy="13.5" fill="#1E2029" rx="8" ry="8" style="stroke:#2D74BA;stroke-width:0.5;"/><path d="M38,21.5 L38,48.5 M25,29.5 L51,29.5 M38,48.5 L25,63.5 M38,48.5 L51,63.5 " fill="none" style="stroke:#2D74BA;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="60" x="5" y="617.2001">User TTY</text><ellipse cx="38" cy="628.5001" fill="#1E2029" rx="8" ry="8" style="stroke:#2D74BA;stroke-width:0.5;"/><path d="M38,636.5001 L38,663.5001 M25,644.5001 L51,644.5001 M38,663.5001 L25,678.5001 M38,663.5001 L51,678.5001 " fill="none" style="stroke:#2D74BA;stroke-width:0.5;"/><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="127" x="81" y="50"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="113" x="88" y="70.9999">Items Process (IP)</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="127" x="81" y="603.2002"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="113" x="88" y="624.2001">Items Process (IP)</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="85" x="218" y="50"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="71" x="225" y="70.9999">FZF.STDIN</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="85" x="218" y="603.2002"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="71" x="225" y="624.2001">FZF.STDIN</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="39" x="313" y="50"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="25" x="320" y="70.9999">FZF</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="39" x="313" y="603.2002"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="25" x="320" y="624.2001">FZF</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="101" x="390" y="50"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="87" x="397" y="70.9999">FZF.STDOUT</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="101" x="390" y="603.2002"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="87" x="397" y="624.2001">FZF.STDOUT</text><path d="M284,96.7999 L284,168.7999 L381,168.7999 L381,106.7999 L371,96.7999 L284,96.7999 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M371,96.7999 L371,106.7999 L381,106.7999 L371,96.7999 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="75" x="290" y="114.7999">FZF starts up</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="60" x="290" y="130.4">reads from</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="32" x="290" y="146">- TTY</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="76" x="290" y="161.6">- IP.STDOUT</text><polygon fill="#00B2E2" points="248.5,223,258.5,227,248.5,231,252.5,227" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="144.5" x2="254.5" y1="227" y2="227"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="31" x="151.5" y="191.2">items</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="31" x="151.5" y="206.8">"hello</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="34" x="151.5" y="222.4">world"</text><polygon fill="#00B2E2" points="320.5,252.6,330.5,256.6,320.5,260.6,324.5,256.6" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="260.5" x2="326.5" y1="256.6" y2="256.6"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="31" x="267.5" y="252">items</text><path d="M295,269.6 L295,294.6 L369,294.6 L369,279.6 L359,269.6 L295,269.6 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M359,269.6 L359,279.6 L369,279.6 L359,269.6 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="53" x="301" y="287.6">rendering</text><polygon fill="#00B2E2" points="428.5,317.8001,438.5,321.8001,428.5,325.8001,432.5,321.8001" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="332.5" x2="434.5" y1="321.8001" y2="321.8001"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="84" x="339.5" y="317.2001">rendered items</text><path d="M415,334.8001 L415,375.8001 L466,375.8001 L466,344.8001 L456,334.8001 L415,334.8001 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M456,334.8001 L456,344.8001 L466,344.8001 L456,334.8001 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="27" x="421" y="352.8001">hello</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="30" x="421" y="368.4001">world</text><polygon fill="#00B2E2" points="248.5,398.6001,258.5,402.6001,248.5,406.6001,252.5,402.6001" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="38" x2="254.5" y1="402.6001" y2="402.6001"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="79" x="45" y="398.0001">filter (e.g. 'he')</text><polygon fill="#00B2E2" points="320.5,428.2001,330.5,432.2001,320.5,436.2001,324.5,432.2001" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="260.5" x2="326.5" y1="432.2001" y2="432.2001"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="25" x="267.5" y="427.6001">filter</text><polygon fill="#00B2E2" points="428.5,457.8001,438.5,461.8001,428.5,465.8001,432.5,461.8001" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="332.5" x2="434.5" y1="461.8001" y2="461.8001"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="73" x="339.5" y="457.2001">filtered items</text><path d="M416,474.8001 L416,499.8001 L464,499.8001 L464,484.8001 L454,474.8001 L416,474.8001 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M454,474.8001 L454,484.8001 L464,484.8001 L454,474.8001 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="27" x="422" y="492.8001">hello</text><polygon fill="#00B2E2" points="248.5,523.0002,258.5,527.0002,248.5,531.0002,252.5,527.0002" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="38" x2="254.5" y1="527.0002" y2="527.0002"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="34" x="45" y="522.4002">select</text><polygon fill="#00B2E2" points="320.5,552.6002,330.5,556.6002,320.5,560.6002,324.5,556.6002" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="260.5" x2="326.5" y1="556.6002" y2="556.6002"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="34" x="267.5" y="552.0002">select</text><polygon fill="#00B2E2" points="428.5,582.2002,438.5,586.2002,428.5,590.2002,432.5,586.2002" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="332.5" x2="434.5" y1="586.2002" y2="586.2002"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="33" x="339.5" y="581.6002">'hello'</text><!--MD5=[6e9eb8a40f31b1cefb2b5fa94d3fc980]
+@startuml
+skinparam shadowing false
+skinparam backgroundcolor transparent
+skinparam DefaultFontName Arial
+skinparam ArrowColor #00b2e2
+skinparam DefaultFontColor #aaa
+skinparam ActivityBorderColor #2D74BA
+skinparam ActivityDiamondBorderColor #2D74BA
+skinparam ActorBorderColor #2D74BA
+skinparam AgentBorderColor #2D74BA
+skinparam ArtifactBorderColor #2D74BA
+skinparam BoundaryBorderColor #2D74BA
+skinparam CardBorderColor #2D74BA
+skinparam ClassBorderColor #2D74BA
+skinparam CloudBorderColor #2D74BA
+skinparam CollectionsBorderColor #2D74BA
+skinparam ComponentBorderColor #2D74BA
+skinparam ControlBorderColor #2D74BA
+skinparam DatabaseBorderColor #2D74BA
+skinparam EntityBorderColor #2D74BA
+skinparam FileBorderColor #2D74BA
+skinparam FolderBorderColor #2D74BA
+skinparam FrameBorderColor #2D74BA
+skinparam InterfaceBorderColor #2D74BA
+skinparam LegendBorderColor #2D74BA
+skinparam NodeBorderColor #2D74BA
+skinparam NoteBorderColor #2D74BA
+skinparam ObjectBorderColor #2D74BA
+skinparam PackageBorderColor #2D74BA
+skinparam PageBorderColor #2D74BA
+skinparam ParticipantBorderColor #2D74BA
+skinparam PartitionBorderColor #2D74BA
+skinparam QueueBorderColor #2D74BA
+skinparam RectangleBorderColor #2D74BA
+skinparam SequenceBoxBorderColor #2D74BA
+skinparam SequenceDividerBorderColor #2D74BA
+skinparam SequenceGroupBorderColor #2D74BA
+skinparam SequenceLifeLineBorderColor #2D74BA
+skinparam SequenceReferenceBorderColor #2D74BA
+skinparam StackBorderColor #2D74BA
+skinparam StateBorderColor #2D74BA
+skinparam StereotypeABorderColor #2D74BA
+skinparam StereotypeCBorderColor #2D74BA
+skinparam StereotypeEBorderColor #2D74BA
+skinparam StereotypeIBorderColor #2D74BA
+skinparam StereotypeNBorderColor #2D74BA
+skinparam StorageBorderColor #2D74BA
+skinparam SwimlaneBorderColor #2D74BA
+skinparam UsecaseBorderColor #2D74BA
+
+skinparam ActivityBackgroundColor #1e2029
+skinparam ActivityDiamondBackgroundColor #1e2029
+skinparam ActorBackgroundColor #1e2029
+skinparam AgentBackgroundColor #1e2029
+skinparam ArtifactBackgroundColor #1e2029
+skinparam BoundaryBackgroundColor #1e2029
+skinparam CardBackgroundColor #1e2029
+skinparam ClassBackgroundColor #1e2029
+skinparam ClassHeaderBackgroundColor #1e2029
+skinparam CloudBackgroundColor #1e2029
+skinparam CollectionsBackgroundColor #1e2029
+skinparam ComponentBackgroundColor #1e2029
+skinparam ControlBackgroundColor #1e2029
+skinparam DatabaseBackgroundColor #1e2029
+skinparam EntityBackgroundColor #1e2029
+skinparam FileBackgroundColor #1e2029
+skinparam FolderBackgroundColor #1e2029
+skinparam FrameBackgroundColor #1e2029
+skinparam IconPackageBackgroundColor #1e2029
+skinparam IconPrivateBackgroundColor #1e2029
+skinparam IconProtectedBackgroundColor #1e2029
+skinparam IconPublicBackgroundColor #1e2029
+skinparam InterfaceBackgroundColor #1e2029
+skinparam LegendBackgroundColor #1e2029
+skinparam NodeBackgroundColor #1e2029
+skinparam NoteBackgroundColor #1e2029
+skinparam ObjectBackgroundColor #1e2029
+skinparam PackageBackgroundColor #1e2029
+skinparam ParticipantBackgroundColor #1e2029
+skinparam PartitionBackgroundColor #1e2029
+skinparam QueueBackgroundColor #1e2029
+skinparam RectangleBackgroundColor #1e2029
+skinparam SequenceBoxBackgroundColor #1e2029
+skinparam SequenceDividerBackgroundColor #1e2029
+skinparam SequenceGroupBackgroundColor #1e2029
+skinparam SequenceGroupBodyBackgroundColor #1e2029
+skinparam SequenceLifeLineBackgroundColor #1e2029
+skinparam SequenceReferenceBackgroundColor #1e2029
+skinparam SequenceReferenceHeaderBackgroundColor #1e2029
+skinparam StackBackgroundColor #1e2029
+skinparam StateBackgroundColor #1e2029
+skinparam StereotypeABackgroundColor #1e2029
+skinparam StereotypeCBackgroundColor #1e2029
+skinparam StereotypeEBackgroundColor #1e2029
+skinparam StereotypeIBackgroundColor #1e2029
+skinparam StereotypeNBackgroundColor #1e2029
+skinparam StorageBackgroundColor #1e2029
+skinparam TitleBackgroundColor #1e2029
+skinparam UsecaseBackgroundColor #1e2029
+
+skinparam ActivityStartColor #454645
+skinparam ActivityEndColor #454645
+skinparam StateStartColor #454645
+skinparam StateEndColor #454645
+
+skinparam shadowing false
+skinparam DefaultFontName Arial
+skinparam ArrowColor #00b2e2
+skinparam DefaultFontColor #aaa
+
+skinparam ActivityBorderColor #2D74BA
+skinparam ActivityDiamondBorderColor #2D74BA
+skinparam ActorBorderColor #2D74BA
+skinparam AgentBorderColor #2D74BA
+skinparam ArtifactBorderColor #2D74BA
+skinparam BoundaryBorderColor #2D74BA
+skinparam CardBorderColor #2D74BA
+skinparam ClassBorderColor #2D74BA
+skinparam CloudBorderColor #2D74BA
+skinparam CollectionsBorderColor #2D74BA
+skinparam ComponentBorderColor #2D74BA
+skinparam ControlBorderColor #2D74BA
+skinparam DatabaseBorderColor #2D74BA
+skinparam EntityBorderColor #2D74BA
+skinparam FileBorderColor #2D74BA
+skinparam FolderBorderColor #2D74BA
+skinparam FrameBorderColor #2D74BA
+skinparam InterfaceBorderColor #2D74BA
+skinparam LegendBorderColor #2D74BA
+skinparam NodeBorderColor #2D74BA
+skinparam NoteBorderColor #2D74BA
+skinparam ObjectBorderColor #2D74BA
+skinparam PackageBorderColor #2D74BA
+skinparam PageBorderColor #2D74BA
+skinparam ParticipantBorderColor #2D74BA
+skinparam PartitionBorderColor #2D74BA
+skinparam QueueBorderColor #2D74BA
+skinparam RectangleBorderColor #2D74BA
+skinparam SequenceBoxBorderColor #2D74BA
+skinparam SequenceDividerBorderColor #2D74BA
+skinparam SequenceGroupBorderColor #2D74BA
+skinparam SequenceLifeLineBorderColor #2D74BA
+skinparam SequenceReferenceBorderColor #2D74BA
+skinparam StackBorderColor #2D74BA
+skinparam StateBorderColor #2D74BA
+skinparam StereotypeABorderColor #2D74BA
+skinparam StereotypeCBorderColor #2D74BA
+skinparam StereotypeEBorderColor #2D74BA
+skinparam StereotypeIBorderColor #2D74BA
+skinparam StereotypeNBorderColor #2D74BA
+skinparam StorageBorderColor #2D74BA
+skinparam SwimlaneBorderColor #2D74BA
+skinparam UsecaseBorderColor #2D74BA
+
+skinparam ActivityBackgroundColor #1e2029
+skinparam ActivityDiamondBackgroundColor #1e2029
+skinparam ActorBackgroundColor #1e2029
+skinparam AgentBackgroundColor #1e2029
+skinparam ArtifactBackgroundColor #1e2029
+skinparam BoundaryBackgroundColor #1e2029
+skinparam CardBackgroundColor #1e2029
+skinparam ClassBackgroundColor #1e2029
+skinparam ClassHeaderBackgroundColor #1e2029
+skinparam CloudBackgroundColor #1e2029
+skinparam CollectionsBackgroundColor #1e2029
+skinparam ComponentBackgroundColor #1e2029
+skinparam ControlBackgroundColor #1e2029
+skinparam DatabaseBackgroundColor #1e2029
+skinparam EntityBackgroundColor #1e2029
+skinparam FileBackgroundColor #1e2029
+skinparam FolderBackgroundColor #1e2029
+skinparam FrameBackgroundColor #1e2029
+skinparam HyperlinkColor #999999
+skinparam HyperlinkUnderline false
+skinparam IconPackageBackgroundColor #1e2029
+skinparam IconPrivateBackgroundColor #1e2029
+skinparam IconProtectedBackgroundColor #1e2029
+skinparam IconPublicBackgroundColor #1e2029
+skinparam InterfaceBackgroundColor #1e2029
+skinparam LegendBackgroundColor #1e2029
+skinparam NodeBackgroundColor #1e2029
+skinparam NoteBackgroundColor #1e2029
+skinparam ObjectBackgroundColor #1e2029
+skinparam PackageBackgroundColor #1e2029
+skinparam ParticipantBackgroundColor #1e2029
+skinparam PartitionBackgroundColor #1e2029
+skinparam QueueBackgroundColor #1e2029
+skinparam RectangleBackgroundColor #1e2029
+skinparam SequenceBoxBackgroundColor #1e2029
+skinparam SequenceDividerBackgroundColor #1e2029
+skinparam SequenceGroupBackgroundColor #1e2029
+skinparam SequenceGroupBodyBackgroundColor #1e2029
+skinparam SequenceLifeLineBackgroundColor #1e2029
+skinparam SequenceReferenceBackgroundColor #1e2029
+skinparam SequenceReferenceHeaderBackgroundColor #1e2029
+skinparam StackBackgroundColor #1e2029
+skinparam StateBackgroundColor #1e2029
+skinparam StereotypeABackgroundColor #1e2029
+skinparam StereotypeCBackgroundColor #1e2029
+skinparam StereotypeEBackgroundColor #1e2029
+skinparam StereotypeIBackgroundColor #1e2029
+skinparam StereotypeNBackgroundColor #1e2029
+skinparam StorageBackgroundColor #1e2029
+skinparam TitleBackgroundColor #1e2029
+skinparam UsecaseBackgroundColor #1e2029
+
+skinparam ActivityStartColor #454645
+skinparam ActivityEndColor #454645
+skinparam StateStartColor #454645
+skinparam StateEndColor #454645
+
+
+actor "User TTY" as u
+participant "Items Process (IP)" as ip
+participant "FZF.STDIN" as si
+participant FZF as f
+participant "FZF.STDOUT" as soi
+note over f: FZF starts up\nreads from\n- TTY \n- IP.STDOUT
+ip->si: items\n"hello\nworld"
+si->f: items
+note over f: rendering
+f->soi: rendered items
+note over soi: hello\nworld
+u->si: filter (e.g. 'he')
+si->f: filter
+f->soi: filtered items
+note over soi: hello
+u->si: select
+si->f: select
+f->soi: 'hello'
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 16:10:57 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

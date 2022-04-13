@@ -15,7 +15,7 @@ homepage = "https://axgkl.github.io/devapps"
 keywords = []
 
 packages = [
-    { include = "fzf_apps",         from = "src" },
+    { include = "fzf_app",         from = "src" },
 ]
 
 
@@ -33,7 +33,7 @@ rich       = "*"
 
 [tool.poetry.dev-dependencies]
 #docutools = { path = "../docutools/", develop = true }
-# docutools = "*"
+docutools = "*"
 #autoflake = "^1.4"
 #axblack = "^20201010"
 ## one of last versions with site-packages/black.py - overridden by axblack:
@@ -65,7 +65,7 @@ rich       = "*"
 #pytest-xdist = "^2.1.0"
 
 [tool.poetry.scripts]
-pfui = "fzf_apps.cli:main"
+fui = "fzf_app.cli:main"
 
 [tool.black]
 line-length = 90

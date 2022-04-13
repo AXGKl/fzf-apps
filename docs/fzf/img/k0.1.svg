@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="506px" preserveAspectRatio="none" style="width:439px;height:506px;background:#00000000;" version="1.1" viewBox="0 0 439 506" width="439px" zoomAndPan="magnify"><defs/><g><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="44" x2="44" y1="81.7999" y2="425.0001"/><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="150" x2="150" y1="81.7999" y2="425.0001"/><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="243" x2="243" y1="81.7999" y2="425.0001"/><line style="stroke:#2D74BA;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="382" x2="382" y1="81.7999" y2="425.0001"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="60" x="11" y="78.9999">User TTY</text><ellipse cx="44" cy="13.5" fill="#1E2029" rx="8" ry="8" style="stroke:#2D74BA;stroke-width:0.5;"/><path d="M44,21.5 L44,48.5 M31,29.5 L57,29.5 M44,48.5 L31,63.5 M44,48.5 L57,63.5 " fill="none" style="stroke:#2D74BA;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="60" x="11" y="438">User TTY</text><ellipse cx="44" cy="449.3" fill="#1E2029" rx="8" ry="8" style="stroke:#2D74BA;stroke-width:0.5;"/><path d="M44,457.3 L44,484.3 M31,465.3 L57,465.3 M44,484.3 L31,499.3 M44,484.3 L57,499.3 " fill="none" style="stroke:#2D74BA;stroke-width:0.5;"/><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="127" x="87" y="50"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="113" x="94" y="70.9999">Items Process (IP)</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="127" x="87" y="424.0001"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="113" x="94" y="445">Items Process (IP)</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="39" x="224" y="50"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="25" x="231" y="70.9999">FZF</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="39" x="224" y="424.0001"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="25" x="231" y="445">FZF</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="101" x="332" y="50"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="87" x="339" y="70.9999">FZF.STDOUT</text><rect fill="#1E2029" height="30.7999" rx="2.5" ry="2.5" style="stroke:#2D74BA;stroke-width:0.5;" width="101" x="332" y="424.0001"/><text fill="#AAAAAA" font-family="Arial" font-size="14" lengthAdjust="spacing" textLength="87" x="339" y="445">FZF.STDOUT</text><path d="M195,96.7999 L195,168.7999 L292,168.7999 L292,106.7999 L282,96.7999 L195,96.7999 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M282,96.7999 L282,106.7999 L292,106.7999 L282,96.7999 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="75" x="201" y="114.7999">FZF starts up</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="60" x="201" y="130.4">reads from</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="32" x="201" y="146">- TTY</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="76" x="201" y="161.6">- IP.STDOUT</text><polygon fill="#00B2E2" points="231.5,191.8,241.5,195.8,231.5,199.8,235.5,195.8" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="150.5" x2="237.5" y1="195.8" y2="195.8"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="35" x="157.5" y="191.2">"hello"</text><polygon fill="#00B2E2" points="370.5,221.4,380.5,225.4,370.5,229.4,374.5,225.4" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="243.5" x2="376.5" y1="225.4" y2="225.4"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="88" x="250.5" y="220.8">rendered "hello"</text><path d="M358,238.4 L358,263.4 L406,263.4 L406,248.4 L396,238.4 L358,238.4 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M396,238.4 L396,248.4 L406,248.4 L396,238.4 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="27" x="364" y="256.4">hello</text><path d="M5,274 L5,299 L422,299 L422,284 L412,274 L5,274 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M412,274 L412,284 L422,284 L412,274 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="51" x="183.5" y="292">1 second</text><polygon fill="#00B2E2" points="231.5,322.2001,241.5,326.2001,231.5,330.2001,235.5,326.2001" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="150.5" x2="237.5" y1="326.2001" y2="326.2001"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="38" x="157.5" y="321.6">"world"</text><polygon fill="#00B2E2" points="370.5,351.8001,380.5,355.8001,370.5,359.8001,374.5,355.8001" style="stroke:#00B2E2;stroke-width:1.0;"/><line style="stroke:#00B2E2;stroke-width:1.0;" x1="243.5" x2="376.5" y1="355.8001" y2="355.8001"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="115" x="250.5" y="351.2001">add rendered "world"</text><path d="M357,368.8001 L357,409.8001 L408,409.8001 L408,378.8001 L398,368.8001 L357,368.8001 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><path d="M398,368.8001 L398,378.8001 L408,378.8001 L398,368.8001 " fill="#1E2029" style="stroke:#181818;stroke-width:0.5;"/><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="27" x="363" y="386.8001">hello</text><text fill="#AAAAAA" font-family="Arial" font-size="13" lengthAdjust="spacing" textLength="30" x="363" y="402.4001">world</text><!--MD5=[a1d457348e61a84f8780acf39aa66708]
+@startuml
+skinparam shadowing false
+skinparam backgroundcolor transparent
+skinparam DefaultFontName Arial
+skinparam ArrowColor #00b2e2
+skinparam DefaultFontColor #aaa
+skinparam ActivityBorderColor #2D74BA
+skinparam ActivityDiamondBorderColor #2D74BA
+skinparam ActorBorderColor #2D74BA
+skinparam AgentBorderColor #2D74BA
+skinparam ArtifactBorderColor #2D74BA
+skinparam BoundaryBorderColor #2D74BA
+skinparam CardBorderColor #2D74BA
+skinparam ClassBorderColor #2D74BA
+skinparam CloudBorderColor #2D74BA
+skinparam CollectionsBorderColor #2D74BA
+skinparam ComponentBorderColor #2D74BA
+skinparam ControlBorderColor #2D74BA
+skinparam DatabaseBorderColor #2D74BA
+skinparam EntityBorderColor #2D74BA
+skinparam FileBorderColor #2D74BA
+skinparam FolderBorderColor #2D74BA
+skinparam FrameBorderColor #2D74BA
+skinparam InterfaceBorderColor #2D74BA
+skinparam LegendBorderColor #2D74BA
+skinparam NodeBorderColor #2D74BA
+skinparam NoteBorderColor #2D74BA
+skinparam ObjectBorderColor #2D74BA
+skinparam PackageBorderColor #2D74BA
+skinparam PageBorderColor #2D74BA
+skinparam ParticipantBorderColor #2D74BA
+skinparam PartitionBorderColor #2D74BA
+skinparam QueueBorderColor #2D74BA
+skinparam RectangleBorderColor #2D74BA
+skinparam SequenceBoxBorderColor #2D74BA
+skinparam SequenceDividerBorderColor #2D74BA
+skinparam SequenceGroupBorderColor #2D74BA
+skinparam SequenceLifeLineBorderColor #2D74BA
+skinparam SequenceReferenceBorderColor #2D74BA
+skinparam StackBorderColor #2D74BA
+skinparam StateBorderColor #2D74BA
+skinparam StereotypeABorderColor #2D74BA
+skinparam StereotypeCBorderColor #2D74BA
+skinparam StereotypeEBorderColor #2D74BA
+skinparam StereotypeIBorderColor #2D74BA
+skinparam StereotypeNBorderColor #2D74BA
+skinparam StorageBorderColor #2D74BA
+skinparam SwimlaneBorderColor #2D74BA
+skinparam UsecaseBorderColor #2D74BA
+
+skinparam ActivityBackgroundColor #1e2029
+skinparam ActivityDiamondBackgroundColor #1e2029
+skinparam ActorBackgroundColor #1e2029
+skinparam AgentBackgroundColor #1e2029
+skinparam ArtifactBackgroundColor #1e2029
+skinparam BoundaryBackgroundColor #1e2029
+skinparam CardBackgroundColor #1e2029
+skinparam ClassBackgroundColor #1e2029
+skinparam ClassHeaderBackgroundColor #1e2029
+skinparam CloudBackgroundColor #1e2029
+skinparam CollectionsBackgroundColor #1e2029
+skinparam ComponentBackgroundColor #1e2029
+skinparam ControlBackgroundColor #1e2029
+skinparam DatabaseBackgroundColor #1e2029
+skinparam EntityBackgroundColor #1e2029
+skinparam FileBackgroundColor #1e2029
+skinparam FolderBackgroundColor #1e2029
+skinparam FrameBackgroundColor #1e2029
+skinparam IconPackageBackgroundColor #1e2029
+skinparam IconPrivateBackgroundColor #1e2029
+skinparam IconProtectedBackgroundColor #1e2029
+skinparam IconPublicBackgroundColor #1e2029
+skinparam InterfaceBackgroundColor #1e2029
+skinparam LegendBackgroundColor #1e2029
+skinparam NodeBackgroundColor #1e2029
+skinparam NoteBackgroundColor #1e2029
+skinparam ObjectBackgroundColor #1e2029
+skinparam PackageBackgroundColor #1e2029
+skinparam ParticipantBackgroundColor #1e2029
+skinparam PartitionBackgroundColor #1e2029
+skinparam QueueBackgroundColor #1e2029
+skinparam RectangleBackgroundColor #1e2029
+skinparam SequenceBoxBackgroundColor #1e2029
+skinparam SequenceDividerBackgroundColor #1e2029
+skinparam SequenceGroupBackgroundColor #1e2029
+skinparam SequenceGroupBodyBackgroundColor #1e2029
+skinparam SequenceLifeLineBackgroundColor #1e2029
+skinparam SequenceReferenceBackgroundColor #1e2029
+skinparam SequenceReferenceHeaderBackgroundColor #1e2029
+skinparam StackBackgroundColor #1e2029
+skinparam StateBackgroundColor #1e2029
+skinparam StereotypeABackgroundColor #1e2029
+skinparam StereotypeCBackgroundColor #1e2029
+skinparam StereotypeEBackgroundColor #1e2029
+skinparam StereotypeIBackgroundColor #1e2029
+skinparam StereotypeNBackgroundColor #1e2029
+skinparam StorageBackgroundColor #1e2029
+skinparam TitleBackgroundColor #1e2029
+skinparam UsecaseBackgroundColor #1e2029
+
+skinparam ActivityStartColor #454645
+skinparam ActivityEndColor #454645
+skinparam StateStartColor #454645
+skinparam StateEndColor #454645
+
+skinparam shadowing false
+skinparam DefaultFontName Arial
+skinparam ArrowColor #00b2e2
+skinparam DefaultFontColor #aaa
+
+skinparam ActivityBorderColor #2D74BA
+skinparam ActivityDiamondBorderColor #2D74BA
+skinparam ActorBorderColor #2D74BA
+skinparam AgentBorderColor #2D74BA
+skinparam ArtifactBorderColor #2D74BA
+skinparam BoundaryBorderColor #2D74BA
+skinparam CardBorderColor #2D74BA
+skinparam ClassBorderColor #2D74BA
+skinparam CloudBorderColor #2D74BA
+skinparam CollectionsBorderColor #2D74BA
+skinparam ComponentBorderColor #2D74BA
+skinparam ControlBorderColor #2D74BA
+skinparam DatabaseBorderColor #2D74BA
+skinparam EntityBorderColor #2D74BA
+skinparam FileBorderColor #2D74BA
+skinparam FolderBorderColor #2D74BA
+skinparam FrameBorderColor #2D74BA
+skinparam InterfaceBorderColor #2D74BA
+skinparam LegendBorderColor #2D74BA
+skinparam NodeBorderColor #2D74BA
+skinparam NoteBorderColor #2D74BA
+skinparam ObjectBorderColor #2D74BA
+skinparam PackageBorderColor #2D74BA
+skinparam PageBorderColor #2D74BA
+skinparam ParticipantBorderColor #2D74BA
+skinparam PartitionBorderColor #2D74BA
+skinparam QueueBorderColor #2D74BA
+skinparam RectangleBorderColor #2D74BA
+skinparam SequenceBoxBorderColor #2D74BA
+skinparam SequenceDividerBorderColor #2D74BA
+skinparam SequenceGroupBorderColor #2D74BA
+skinparam SequenceLifeLineBorderColor #2D74BA
+skinparam SequenceReferenceBorderColor #2D74BA
+skinparam StackBorderColor #2D74BA
+skinparam StateBorderColor #2D74BA
+skinparam StereotypeABorderColor #2D74BA
+skinparam StereotypeCBorderColor #2D74BA
+skinparam StereotypeEBorderColor #2D74BA
+skinparam StereotypeIBorderColor #2D74BA
+skinparam StereotypeNBorderColor #2D74BA
+skinparam StorageBorderColor #2D74BA
+skinparam SwimlaneBorderColor #2D74BA
+skinparam UsecaseBorderColor #2D74BA
+
+skinparam ActivityBackgroundColor #1e2029
+skinparam ActivityDiamondBackgroundColor #1e2029
+skinparam ActorBackgroundColor #1e2029
+skinparam AgentBackgroundColor #1e2029
+skinparam ArtifactBackgroundColor #1e2029
+skinparam BoundaryBackgroundColor #1e2029
+skinparam CardBackgroundColor #1e2029
+skinparam ClassBackgroundColor #1e2029
+skinparam ClassHeaderBackgroundColor #1e2029
+skinparam CloudBackgroundColor #1e2029
+skinparam CollectionsBackgroundColor #1e2029
+skinparam ComponentBackgroundColor #1e2029
+skinparam ControlBackgroundColor #1e2029
+skinparam DatabaseBackgroundColor #1e2029
+skinparam EntityBackgroundColor #1e2029
+skinparam FileBackgroundColor #1e2029
+skinparam FolderBackgroundColor #1e2029
+skinparam FrameBackgroundColor #1e2029
+skinparam HyperlinkColor #999999
+skinparam HyperlinkUnderline false
+skinparam IconPackageBackgroundColor #1e2029
+skinparam IconPrivateBackgroundColor #1e2029
+skinparam IconProtectedBackgroundColor #1e2029
+skinparam IconPublicBackgroundColor #1e2029
+skinparam InterfaceBackgroundColor #1e2029
+skinparam LegendBackgroundColor #1e2029
+skinparam NodeBackgroundColor #1e2029
+skinparam NoteBackgroundColor #1e2029
+skinparam ObjectBackgroundColor #1e2029
+skinparam PackageBackgroundColor #1e2029
+skinparam ParticipantBackgroundColor #1e2029
+skinparam PartitionBackgroundColor #1e2029
+skinparam QueueBackgroundColor #1e2029
+skinparam RectangleBackgroundColor #1e2029
+skinparam SequenceBoxBackgroundColor #1e2029
+skinparam SequenceDividerBackgroundColor #1e2029
+skinparam SequenceGroupBackgroundColor #1e2029
+skinparam SequenceGroupBodyBackgroundColor #1e2029
+skinparam SequenceLifeLineBackgroundColor #1e2029
+skinparam SequenceReferenceBackgroundColor #1e2029
+skinparam SequenceReferenceHeaderBackgroundColor #1e2029
+skinparam StackBackgroundColor #1e2029
+skinparam StateBackgroundColor #1e2029
+skinparam StereotypeABackgroundColor #1e2029
+skinparam StereotypeCBackgroundColor #1e2029
+skinparam StereotypeEBackgroundColor #1e2029
+skinparam StereotypeIBackgroundColor #1e2029
+skinparam StereotypeNBackgroundColor #1e2029
+skinparam StorageBackgroundColor #1e2029
+skinparam TitleBackgroundColor #1e2029
+skinparam UsecaseBackgroundColor #1e2029
+
+skinparam ActivityStartColor #454645
+skinparam ActivityEndColor #454645
+skinparam StateStartColor #454645
+skinparam StateEndColor #454645
+
+
+actor "User TTY" as u
+participant "Items Process (IP)" as ip
+participant FZF as f
+participant "FZF.STDOUT" as soi
+note over f: FZF starts up\nreads from\n- TTY \n- IP.STDOUT
+ip->f: "hello"
+f->soi: rendered "hello"
+note over soi: hello
+note over u, soi: 1 second
+ip->f: "world"
+f->soi: add rendered "world"
+note over soi: hello\nworld
+
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 16:10:57 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
